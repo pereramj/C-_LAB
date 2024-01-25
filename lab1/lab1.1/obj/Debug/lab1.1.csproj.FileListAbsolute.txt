@@ -1,0 +1,7 @@
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\bin\Debug\lab1.1.exe.config
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\bin\Debug\lab1.1.exe
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\bin\Debug\lab1.1.pdb
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\obj\Debug\lab1.1.csproj.AssemblyReference.cache
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\obj\Debug\lab1.1.csproj.CoreCompileInputs.cache
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\obj\Debug\lab1.1.exe
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\lab1.1\obj\Debug\lab1.1.pdb
