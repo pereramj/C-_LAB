@@ -1,0 +1,7 @@
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\bin\Debug\q6.exe.config
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\bin\Debug\q6.exe
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\bin\Debug\q6.pdb
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\obj\Debug\q6.csproj.AssemblyReference.cache
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\obj\Debug\q6.csproj.CoreCompileInputs.cache
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\obj\Debug\q6.exe
+C:\Users\perer\OneDrive\Documents\c#\LAB\lab1\q6\obj\Debug\q6.pdb
